@@ -1,4 +1,5 @@
-# financeiro_laranja
+<img width="1418" height="715" alt="Captura de tela 2026-10-05 135439" src="https://github.com/user-attachments/assets/ffb63ac8-d6f6-4f43-aa35-4872a7585446" />
+
 
 # Sistema de Gestão Financeira em Excel
 
